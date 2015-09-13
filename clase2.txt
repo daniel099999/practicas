@@ -1,0 +1,71 @@
+identificar características del cliente
+
+desea seguridad...
+desea rapidez
+guardar las direcciones...
+tipo de usuario taxista: 
+chofer: 
+
+
+
+easy taxi: no hace cálculo de monto por cantidad de km
+
+estimaciones:
+x2mas uno
+etapa de descubrimiento
+
+
+
+quality analyst
+business analyst
+project leader
+coder
+designer
+
+5 coders / 1 punto x coder / 1 día = 5 puntos / 1 sprint de 2 semanas= 10 dias / 50 puntos
+
+crear los sprints en base a la decisión de lo que vas a demorar según el planning poker
+cada user story /tareas de backlog (suma de tareas)
+
+
+
+mide tu velocidad de equipo
+
+
+gian.corso@gmail.com
+
+
+CLASE 2:
+Coc -> estructura tu proyecto de tal manera que 
+
+
+de las urls:
+http://dominio.com/dashboard/users/
+		   (contexto)(Rest)
+
+
+rest: qué va a cargar. está mapeado en el método de un controller
+
+
+
+proyecto creado
+
+ingresar 
+base de datos levantada
+ahora falta levantar la aplicación (ejecutar rails server)
+
+
+CREAREMOS ESTO PARA HACER MANTENIMIENTO:
+CRUDE: CREATE, READ, UPDATE, DELETE
+con SCAFOLD
+
+cada vez que intentes añadir datos a la BD, crearás un file de migración (para hacer versiones de un archivo. parches en orden)
+reproduce la bd del estado inicial hasta el último parche. Es decir, puede hacer rollback o avanzar en una bd.+
+con rake database migrate -> mi tabla existirá como bd para mis archivos
+
+la convención dice que el model va en singular
+
+
+hacer layouts
+
+

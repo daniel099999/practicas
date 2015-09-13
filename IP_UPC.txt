@@ -1,0 +1,3 @@
+ip statica en h55 upc
+
+10.11.37.254
